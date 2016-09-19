@@ -1,6 +1,6 @@
 {
   "name": "Project malhanda",
   "tagline": "",
-  "body": "# Project_malhanda\r\n\r\n| parts  |  Bulid |\r\n|---|---|\r\n|RPi| [![Build Status](https://travis-ci.org/Ajou-masinda/RPi.svg?branch=master)](https://travis-ci.org/Ajou-masinda/RPi)| \r\n|Tizen|[![Build Status](https://travis-ci.org/Ajou-masinda/Tizen.svg?branch=master)](https://travis-ci.org/Ajou-masinda/Tizen) |\r\n|Arduino|[![Build Status](https://travis-ci.org/Ajou-masinda/Arduino.svg?branch=master)](https://travis-ci.org/Ajou-masinda/Arduino)|\r\n|Android| Not available|\r\n\r\n",
+  "body": "# Project_malhanda\r\n\r\n| parts  |  Bulid | Link |\r\n|---|---|---|\r\n|RPi| [![Build Status](https://travis-ci.org/Ajou-masinda/RPi.svg?branch=master)](https://travis-ci.org/Ajou-masinda/RPi)|[link](https://github.com/Ajou-masinda/RPi/)|\r\n|Tizen|[![Build Status](https://travis-ci.org/Ajou-masinda/Tizen.svg?branch=master)](https://travis-ci.org/Ajou-masinda/Tizen) |[link](https://github.com/Ajou-masinda/Tizen/)|\r\n|Arduino|[![Build Status](https://travis-ci.org/Ajou-masinda/Arduino.svg?branch=master)](https://travis-ci.org/Ajou-masinda/Arduino)|[link](https://github.com/Ajou-masinda/Arduino/)|\r\n|Android| Not available|[link](https://github.com/Ajou-masinda/Android/)|\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
