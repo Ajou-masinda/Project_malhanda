@@ -3,7 +3,7 @@
 | parts  |  Bulid | Link |
 |---|---|---|
 |RPi-Node| [![Build Status](https://travis-ci.org/Ajou-masinda/RPi-Node.svg?branch=master)](https://travis-ci.org/Ajou-masinda/RPi-Node)|[link](https://github.com/Ajou-masinda/RPi-Node)|
-|RPi-C| [![Build Status]()]()|[link](https://github.com/Ajou-masinda/RPi-C)|
+|RPi-C| [![Build Status](https://travis-ci.org/Ajou-masinda/RPi-C.svg?branch=master)](https://travis-ci.org/Ajou-masinda/RPi-C)|[link](https://github.com/Ajou-masinda/RPi-C)|
 |Arduino|[![Build Status](https://travis-ci.org/Ajou-masinda/Arduino.svg?branch=master)](https://travis-ci.org/Ajou-masinda/Arduino)|[link](https://github.com/Ajou-masinda/Arduino/)|
 |Android|[![Build Status](https://travis-ci.org/Ajou-masinda/Android.svg?branch=master)](https://travis-ci.org/Ajou-masinda/Android)|[link](https://github.com/Ajou-masinda/Android/)|
 
